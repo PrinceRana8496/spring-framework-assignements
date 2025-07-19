@@ -1,0 +1,24 @@
+URLs
+1.Maven Central Repository:
+   https://repo1.maven.org/maven2/
+
+2.JitPack Repository:
+   https://jitpack.io/
+
+3.Maven Plugin Bindings for JAR packaging:
+   https://maven.apache.org/ref/current/maven-core/       	defaultbindings.html#Plugin_bindings_for_jar_packaging
+
+4.Maven Site Lifecycle Docs:
+   https://maven.apache.org/ref/current/maven-core/lifecycles.html
+
+
+Documentation
+
+1.Dependency Management:
+  https://maven.apache.org/guides/introduction/introduction-to-dependency-mechanism.html
+
+2.Plugin Management:
+  https://maven.apache.org/pom.html#Plugin-Management
+
+3.Executable JAR creation using maven-jar-plugin:
+  https://maven.apache.org/plugins/maven-jar-plugin/examples/manifest-customization.html
