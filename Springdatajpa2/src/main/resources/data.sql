@@ -1,0 +1,11 @@
+--INSERT INTO employee (emp_first_name, emp_last_name, emp_salary, emp_age) VALUES ('Aman', 'Singh', 45000, 26);
+--INSERT INTO employee (emp_first_name, emp_last_name, emp_salary, emp_age) VALUES ('Priya', 'Sharma', 60000, 48);
+--INSERT INTO employee (emp_first_name, emp_last_name, emp_salary, emp_age) VALUES ('Ravi', 'Verma', 50000, 31);
+--INSERT INTO employee (emp_first_name, emp_last_name, emp_salary, emp_age) VALUES ('Neha', 'Kumari', 48000, 27);
+--INSERT INTO employee (emp_first_name, emp_last_name, emp_salary, emp_age) VALUES ('Vikram', 'Yadav', 70000, 55);
+--INSERT INTO employee (emp_first_name, emp_last_name, emp_salary, emp_age) VALUES ('Deepika', 'Chauhan', 52000, 59);
+--INSERT INTO employee (emp_first_name, emp_last_name, emp_salary, emp_age) VALUES ('Suresh', 'Mishra', 55000, 34);
+--INSERT INTO employee (emp_first_name, emp_last_name, emp_salary, emp_age) VALUES ('Anjali', 'Mehra', 63000, 32);
+--INSERT INTO employee (emp_first_name, emp_last_name, emp_salary, emp_age) VALUES ('Rahul', 'Patel', 61000, 33);
+--INSERT INTO employee (emp_first_name, emp_last_name, emp_salary, emp_age) VALUES ('Kiran', 'Rajput Singh', 47000, 50);
+--INSERT INTO employee (emp_first_name, emp_last_name, emp_salary, emp_age) VALUES ('Nikita', 'Singh', 55000, 28);
